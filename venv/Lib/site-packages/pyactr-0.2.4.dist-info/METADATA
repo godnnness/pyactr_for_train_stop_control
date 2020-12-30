@@ -1,0 +1,21 @@
+Metadata-Version: 2.0
+Name: pyactr
+Version: 0.2.4
+Summary: ACT-R in Python
+Home-page: https://github.com/jakdot/pyactr
+Author: jakdot
+Author-email: j.dotlacil@gmail.com
+License: GPL
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: GNU General Public License v3 (GPLv3)
+Classifier: Operating System :: OS Independent
+Classifier: Development Status :: 3 - Alpha
+Classifier: Topic :: Scientific/Engineering
+Requires-Dist: numpy
+Requires-Dist: simpy
+Requires-Dist: pyparsing
+
+UNKNOWN
+
+
