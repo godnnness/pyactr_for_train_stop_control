@@ -770,3 +770,1527 @@ Time to retrieve 0.158451636640284
 (0.1587, 'retriveaction', 'MODIFIED')
 (0.1587, 'g', 'MODIFIED')
 (0.1587, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0.1587, 'PROCEDURAL', 'RULE SELECTED: 如果实际距离<知识块距离且实际速度<知识块速度但未超过限制速度,则采用记忆中的制动')
+(0.1588, 'PROCEDURAL', 'RULE FIRED: 如果实际距离<知识块距离且实际速度<知识块速度但未超过限制速度,则采用记忆中的制动')
+(0.1588, 'g', 'CLEARED')
+(0.1588, 'retrieval', 'CLEARED')
+(0.1588, 'manual', 'COMMAND: press_key')
+(0.1588, 'manual', 'PREPARATION COMPLETE')
+(0.1588, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0.1588, 'PROCEDURAL', 'NO RULE FOUND')
+(0.2088, 'manual', 'INITIATION COMPLETE')
+(0.2088, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0.2088, 'PROCEDURAL', 'NO RULE FOUND')
+(0.3088, 'manual', 'KEY PRESSED: 3')
+当前按键档位为： 3
+(0.3088, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0.3088, 'PROCEDURAL', 'NO RULE FOUND')
+(0.4588, 'manual', 'MOVEMENT FINISHED')
+(0.4588, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0.4588, 'PROCEDURAL', 'NO RULE FOUND')
+actr输出的action: 3
+调整后的最终档位: 3
+调整次数: 0
+当前挡位3对应的加速度0.3375
+8675 8913
+295.0
+---------------------------------------------------
+更新后的速度、限速以及距离： 270.7 295.0 8700.4
+imaginal: {stopfortrain(action= , curd= 8700.4, curv= 270.7, nexv= 295.0)}
+(0, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0, 'PROCEDURAL', 'RULE SELECTED: 开始驾驶')
+(0.0001, 'PROCEDURAL', 'RULE FIRED: 开始驾驶')
+(0.0001, 'g', 'MODIFIED')
+(0.0001, 'retrieval', 'START RETRIEVAL')
+(Partially) matching chunk: stopfortrain(action= 3, curd= 3776.4, curv= 154.0, nexv= 200.0)
+Base level learning: 5.298317366548036
+Spreading activation 0.0
+Partial matching -3
+Noise: 0
+Total activation 2.2983173665480363
+Time to retrieve 0.158451636640284
+(0.0001, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0.0001, 'PROCEDURAL', 'NO RULE FOUND')
+(0.1586, 'retrieval', 'CLEARED')
+(0.1586, 'retrieval', 'RETRIEVED: stopfortrain(action= 3, curd= 3776.4, curv= 154.0, nexv= 200.0)')
+(0.1586, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0.1586, 'PROCEDURAL', 'RULE SELECTED: 回忆成功')
+(0.1587, 'PROCEDURAL', 'RULE FIRED: 回忆成功')
+(0.1587, 'retriveaction', 'MODIFIED')
+(0.1587, 'g', 'MODIFIED')
+(0.1587, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0.1587, 'PROCEDURAL', 'RULE SELECTED: 如果实际距离<知识块距离且实际速度<知识块速度但未超过限制速度,则采用记忆中的制动')
+(0.1588, 'PROCEDURAL', 'RULE FIRED: 如果实际距离<知识块距离且实际速度<知识块速度但未超过限制速度,则采用记忆中的制动')
+(0.1588, 'g', 'CLEARED')
+(0.1588, 'retrieval', 'CLEARED')
+(0.1588, 'manual', 'COMMAND: press_key')
+(0.1588, 'manual', 'PREPARATION COMPLETE')
+(0.1588, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0.1588, 'PROCEDURAL', 'NO RULE FOUND')
+(0.2088, 'manual', 'INITIATION COMPLETE')
+(0.2088, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0.2088, 'PROCEDURAL', 'NO RULE FOUND')
+(0.3088, 'manual', 'KEY PRESSED: 3')
+当前按键档位为： 3
+(0.3088, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0.3088, 'PROCEDURAL', 'NO RULE FOUND')
+(0.4588, 'manual', 'MOVEMENT FINISHED')
+(0.4588, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0.4588, 'PROCEDURAL', 'NO RULE FOUND')
+actr输出的action: 3
+调整后的最终档位: 3
+调整次数: 0
+当前挡位3对应的加速度0.3375
+8675 8913
+295.0
+---------------------------------------------------
+更新后的速度、限速以及距离： 270.2 295.0 8665.9
+imaginal: {stopfortrain(action= , curd= 8665.9, curv= 270.2, nexv= 295.0)}
+(0, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0, 'PROCEDURAL', 'RULE SELECTED: 开始驾驶')
+(0.0001, 'PROCEDURAL', 'RULE FIRED: 开始驾驶')
+(0.0001, 'g', 'MODIFIED')
+(0.0001, 'retrieval', 'START RETRIEVAL')
+(Partially) matching chunk: stopfortrain(action= 3, curd= 3776.4, curv= 154.0, nexv= 200.0)
+Base level learning: 5.298317366548036
+Spreading activation 0.0
+Partial matching -3
+Noise: 0
+Total activation 2.2983173665480363
+Time to retrieve 0.158451636640284
+(0.0001, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0.0001, 'PROCEDURAL', 'NO RULE FOUND')
+(0.1586, 'retrieval', 'CLEARED')
+(0.1586, 'retrieval', 'RETRIEVED: stopfortrain(action= 3, curd= 3776.4, curv= 154.0, nexv= 200.0)')
+(0.1586, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0.1586, 'PROCEDURAL', 'RULE SELECTED: 回忆成功')
+(0.1587, 'PROCEDURAL', 'RULE FIRED: 回忆成功')
+(0.1587, 'retriveaction', 'MODIFIED')
+(0.1587, 'g', 'MODIFIED')
+(0.1587, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0.1587, 'PROCEDURAL', 'RULE SELECTED: 如果实际距离<知识块距离且实际速度<知识块速度但未超过限制速度,则采用记忆中的制动')
+(0.1588, 'PROCEDURAL', 'RULE FIRED: 如果实际距离<知识块距离且实际速度<知识块速度但未超过限制速度,则采用记忆中的制动')
+(0.1588, 'g', 'CLEARED')
+(0.1588, 'retrieval', 'CLEARED')
+(0.1588, 'manual', 'COMMAND: press_key')
+(0.1588, 'manual', 'PREPARATION COMPLETE')
+(0.1588, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0.1588, 'PROCEDURAL', 'NO RULE FOUND')
+(0.2088, 'manual', 'INITIATION COMPLETE')
+(0.2088, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0.2088, 'PROCEDURAL', 'NO RULE FOUND')
+(0.3088, 'manual', 'KEY PRESSED: 3')
+当前按键档位为： 3
+(0.3088, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0.3088, 'PROCEDURAL', 'NO RULE FOUND')
+(0.4588, 'manual', 'MOVEMENT FINISHED')
+(0.4588, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0.4588, 'PROCEDURAL', 'NO RULE FOUND')
+actr输出的action: 3
+调整后的最终档位: 3
+调整次数: 0
+当前挡位3对应的加速度0.3375
+8476 8675
+290.0
+---------------------------------------------------
+更新后的速度、限速以及距离： 269.6 290.0 8631.5
+imaginal: {stopfortrain(action= , curd= 8631.5, curv= 269.6, nexv= 290.0)}
+(0, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0, 'PROCEDURAL', 'RULE SELECTED: 开始驾驶')
+(0.0001, 'PROCEDURAL', 'RULE FIRED: 开始驾驶')
+(0.0001, 'g', 'MODIFIED')
+(0.0001, 'retrieval', 'START RETRIEVAL')
+(Partially) matching chunk: stopfortrain(action= 3, curd= 3776.4, curv= 154.0, nexv= 200.0)
+Base level learning: 5.298317366548036
+Spreading activation 0.0
+Partial matching -3
+Noise: 0
+Total activation 2.2983173665480363
+Time to retrieve 0.158451636640284
+(0.0001, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0.0001, 'PROCEDURAL', 'NO RULE FOUND')
+(0.1586, 'retrieval', 'CLEARED')
+(0.1586, 'retrieval', 'RETRIEVED: stopfortrain(action= 3, curd= 3776.4, curv= 154.0, nexv= 200.0)')
+(0.1586, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0.1586, 'PROCEDURAL', 'RULE SELECTED: 回忆成功')
+(0.1587, 'PROCEDURAL', 'RULE FIRED: 回忆成功')
+(0.1587, 'retriveaction', 'MODIFIED')
+(0.1587, 'g', 'MODIFIED')
+(0.1587, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0.1587, 'PROCEDURAL', 'RULE SELECTED: 如果实际距离<知识块距离且实际速度<知识块速度但未超过限制速度,则采用记忆中的制动')
+(0.1588, 'PROCEDURAL', 'RULE FIRED: 如果实际距离<知识块距离且实际速度<知识块速度但未超过限制速度,则采用记忆中的制动')
+(0.1588, 'g', 'CLEARED')
+(0.1588, 'retrieval', 'CLEARED')
+(0.1588, 'manual', 'COMMAND: press_key')
+(0.1588, 'manual', 'PREPARATION COMPLETE')
+(0.1588, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0.1588, 'PROCEDURAL', 'NO RULE FOUND')
+(0.2088, 'manual', 'INITIATION COMPLETE')
+(0.2088, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0.2088, 'PROCEDURAL', 'NO RULE FOUND')
+(0.3088, 'manual', 'KEY PRESSED: 3')
+当前按键档位为： 3
+(0.3088, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0.3088, 'PROCEDURAL', 'NO RULE FOUND')
+(0.4588, 'manual', 'MOVEMENT FINISHED')
+(0.4588, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0.4588, 'PROCEDURAL', 'NO RULE FOUND')
+actr输出的action: 3
+调整后的最终档位: 3
+调整次数: 0
+当前挡位3对应的加速度0.3375
+8476 8675
+290.0
+---------------------------------------------------
+更新后的速度、限速以及距离： 269.1 290.0 8597.2
+imaginal: {stopfortrain(action= , curd= 8597.2, curv= 269.1, nexv= 290.0)}
+(0, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0, 'PROCEDURAL', 'RULE SELECTED: 开始驾驶')
+(0.0001, 'PROCEDURAL', 'RULE FIRED: 开始驾驶')
+(0.0001, 'g', 'MODIFIED')
+(0.0001, 'retrieval', 'START RETRIEVAL')
+(Partially) matching chunk: stopfortrain(action= 3, curd= 3776.4, curv= 154.0, nexv= 200.0)
+Base level learning: 5.298317366548036
+Spreading activation 0.0
+Partial matching -3
+Noise: 0
+Total activation 2.2983173665480363
+Time to retrieve 0.158451636640284
+(0.0001, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0.0001, 'PROCEDURAL', 'NO RULE FOUND')
+(0.1586, 'retrieval', 'CLEARED')
+(0.1586, 'retrieval', 'RETRIEVED: stopfortrain(action= 3, curd= 3776.4, curv= 154.0, nexv= 200.0)')
+(0.1586, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0.1586, 'PROCEDURAL', 'RULE SELECTED: 回忆成功')
+(0.1587, 'PROCEDURAL', 'RULE FIRED: 回忆成功')
+(0.1587, 'retriveaction', 'MODIFIED')
+(0.1587, 'g', 'MODIFIED')
+(0.1587, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0.1587, 'PROCEDURAL', 'RULE SELECTED: 如果实际距离<知识块距离且实际速度<知识块速度但未超过限制速度,则采用记忆中的制动')
+(0.1588, 'PROCEDURAL', 'RULE FIRED: 如果实际距离<知识块距离且实际速度<知识块速度但未超过限制速度,则采用记忆中的制动')
+(0.1588, 'g', 'CLEARED')
+(0.1588, 'retrieval', 'CLEARED')
+(0.1588, 'manual', 'COMMAND: press_key')
+(0.1588, 'manual', 'PREPARATION COMPLETE')
+(0.1588, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0.1588, 'PROCEDURAL', 'NO RULE FOUND')
+(0.2088, 'manual', 'INITIATION COMPLETE')
+(0.2088, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0.2088, 'PROCEDURAL', 'NO RULE FOUND')
+(0.3088, 'manual', 'KEY PRESSED: 3')
+当前按键档位为： 3
+(0.3088, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0.3088, 'PROCEDURAL', 'NO RULE FOUND')
+(0.4588, 'manual', 'MOVEMENT FINISHED')
+(0.4588, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0.4588, 'PROCEDURAL', 'NO RULE FOUND')
+actr输出的action: 3
+调整后的最终档位: 3
+调整次数: 0
+当前挡位3对应的加速度0.3375
+8476 8675
+290.0
+---------------------------------------------------
+更新后的速度、限速以及距离： 268.5 290.0 8563.0
+imaginal: {stopfortrain(action= , curd= 8563.0, curv= 268.5, nexv= 290.0)}
+(0, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0, 'PROCEDURAL', 'RULE SELECTED: 开始驾驶')
+(0.0001, 'PROCEDURAL', 'RULE FIRED: 开始驾驶')
+(0.0001, 'g', 'MODIFIED')
+(0.0001, 'retrieval', 'START RETRIEVAL')
+(Partially) matching chunk: stopfortrain(action= 3, curd= 3776.4, curv= 154.0, nexv= 200.0)
+Base level learning: 5.298317366548036
+Spreading activation 0.0
+Partial matching -3
+Noise: 0
+Total activation 2.2983173665480363
+Time to retrieve 0.158451636640284
+(0.0001, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0.0001, 'PROCEDURAL', 'NO RULE FOUND')
+(0.1586, 'retrieval', 'CLEARED')
+(0.1586, 'retrieval', 'RETRIEVED: stopfortrain(action= 3, curd= 3776.4, curv= 154.0, nexv= 200.0)')
+(0.1586, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0.1586, 'PROCEDURAL', 'RULE SELECTED: 回忆成功')
+(0.1587, 'PROCEDURAL', 'RULE FIRED: 回忆成功')
+(0.1587, 'retriveaction', 'MODIFIED')
+(0.1587, 'g', 'MODIFIED')
+(0.1587, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0.1587, 'PROCEDURAL', 'RULE SELECTED: 如果实际距离<知识块距离且实际速度<知识块速度但未超过限制速度,则采用记忆中的制动')
+(0.1588, 'PROCEDURAL', 'RULE FIRED: 如果实际距离<知识块距离且实际速度<知识块速度但未超过限制速度,则采用记忆中的制动')
+(0.1588, 'g', 'CLEARED')
+(0.1588, 'retrieval', 'CLEARED')
+(0.1588, 'manual', 'COMMAND: press_key')
+(0.1588, 'manual', 'PREPARATION COMPLETE')
+(0.1588, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0.1588, 'PROCEDURAL', 'NO RULE FOUND')
+(0.2088, 'manual', 'INITIATION COMPLETE')
+(0.2088, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0.2088, 'PROCEDURAL', 'NO RULE FOUND')
+(0.3088, 'manual', 'KEY PRESSED: 3')
+当前按键档位为： 3
+(0.3088, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0.3088, 'PROCEDURAL', 'NO RULE FOUND')
+(0.4588, 'manual', 'MOVEMENT FINISHED')
+(0.4588, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0.4588, 'PROCEDURAL', 'NO RULE FOUND')
+actr输出的action: 3
+调整后的最终档位: 3
+调整次数: 0
+当前挡位3对应的加速度0.3375
+8476 8675
+290.0
+---------------------------------------------------
+更新后的速度、限速以及距离： 268.0 290.0 8528.8
+imaginal: {stopfortrain(action= , curd= 8528.8, curv= 268.0, nexv= 290.0)}
+(0, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0, 'PROCEDURAL', 'RULE SELECTED: 开始驾驶')
+(0.0001, 'PROCEDURAL', 'RULE FIRED: 开始驾驶')
+(0.0001, 'g', 'MODIFIED')
+(0.0001, 'retrieval', 'START RETRIEVAL')
+(Partially) matching chunk: stopfortrain(action= 3, curd= 3776.4, curv= 154.0, nexv= 200.0)
+Base level learning: 5.298317366548036
+Spreading activation 0.0
+Partial matching -3
+Noise: 0
+Total activation 2.2983173665480363
+Time to retrieve 0.158451636640284
+(0.0001, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0.0001, 'PROCEDURAL', 'NO RULE FOUND')
+(0.1586, 'retrieval', 'CLEARED')
+(0.1586, 'retrieval', 'RETRIEVED: stopfortrain(action= 3, curd= 3776.4, curv= 154.0, nexv= 200.0)')
+(0.1586, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0.1586, 'PROCEDURAL', 'RULE SELECTED: 回忆成功')
+(0.1587, 'PROCEDURAL', 'RULE FIRED: 回忆成功')
+(0.1587, 'retriveaction', 'MODIFIED')
+(0.1587, 'g', 'MODIFIED')
+(0.1587, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0.1587, 'PROCEDURAL', 'RULE SELECTED: 如果实际距离<知识块距离且实际速度<知识块速度但未超过限制速度,则采用记忆中的制动')
+(0.1588, 'PROCEDURAL', 'RULE FIRED: 如果实际距离<知识块距离且实际速度<知识块速度但未超过限制速度,则采用记忆中的制动')
+(0.1588, 'g', 'CLEARED')
+(0.1588, 'retrieval', 'CLEARED')
+(0.1588, 'manual', 'COMMAND: press_key')
+(0.1588, 'manual', 'PREPARATION COMPLETE')
+(0.1588, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0.1588, 'PROCEDURAL', 'NO RULE FOUND')
+(0.2088, 'manual', 'INITIATION COMPLETE')
+(0.2088, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0.2088, 'PROCEDURAL', 'NO RULE FOUND')
+(0.3088, 'manual', 'KEY PRESSED: 3')
+当前按键档位为： 3
+(0.3088, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0.3088, 'PROCEDURAL', 'NO RULE FOUND')
+(0.4588, 'manual', 'MOVEMENT FINISHED')
+(0.4588, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0.4588, 'PROCEDURAL', 'NO RULE FOUND')
+actr输出的action: 3
+调整后的最终档位: 3
+调整次数: 0
+当前挡位3对应的加速度0.3375
+8476 8675
+290.0
+---------------------------------------------------
+更新后的速度、限速以及距离： 267.4 290.0 8494.7
+imaginal: {stopfortrain(action= , curd= 8494.7, curv= 267.4, nexv= 290.0)}
+(0, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0, 'PROCEDURAL', 'RULE SELECTED: 开始驾驶')
+(0.0001, 'PROCEDURAL', 'RULE FIRED: 开始驾驶')
+(0.0001, 'g', 'MODIFIED')
+(0.0001, 'retrieval', 'START RETRIEVAL')
+(Partially) matching chunk: stopfortrain(action= 3, curd= 3776.4, curv= 154.0, nexv= 200.0)
+Base level learning: 5.298317366548036
+Spreading activation 0.0
+Partial matching -3
+Noise: 0
+Total activation 2.2983173665480363
+Time to retrieve 0.158451636640284
+(0.0001, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0.0001, 'PROCEDURAL', 'NO RULE FOUND')
+(0.1586, 'retrieval', 'CLEARED')
+(0.1586, 'retrieval', 'RETRIEVED: stopfortrain(action= 3, curd= 3776.4, curv= 154.0, nexv= 200.0)')
+(0.1586, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0.1586, 'PROCEDURAL', 'RULE SELECTED: 回忆成功')
+(0.1587, 'PROCEDURAL', 'RULE FIRED: 回忆成功')
+(0.1587, 'retriveaction', 'MODIFIED')
+(0.1587, 'g', 'MODIFIED')
+(0.1587, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0.1587, 'PROCEDURAL', 'RULE SELECTED: 如果实际距离<知识块距离且实际速度<知识块速度但未超过限制速度,则采用记忆中的制动')
+(0.1588, 'PROCEDURAL', 'RULE FIRED: 如果实际距离<知识块距离且实际速度<知识块速度但未超过限制速度,则采用记忆中的制动')
+(0.1588, 'g', 'CLEARED')
+(0.1588, 'retrieval', 'CLEARED')
+(0.1588, 'manual', 'COMMAND: press_key')
+(0.1588, 'manual', 'PREPARATION COMPLETE')
+(0.1588, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0.1588, 'PROCEDURAL', 'NO RULE FOUND')
+(0.2088, 'manual', 'INITIATION COMPLETE')
+(0.2088, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0.2088, 'PROCEDURAL', 'NO RULE FOUND')
+(0.3088, 'manual', 'KEY PRESSED: 3')
+当前按键档位为： 3
+(0.3088, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0.3088, 'PROCEDURAL', 'NO RULE FOUND')
+(0.4588, 'manual', 'MOVEMENT FINISHED')
+(0.4588, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0.4588, 'PROCEDURAL', 'NO RULE FOUND')
+actr输出的action: 3
+调整后的最终档位: 3
+调整次数: 0
+当前挡位3对应的加速度0.3375
+8476 8675
+290.0
+---------------------------------------------------
+更新后的速度、限速以及距离： 266.8 290.0 8460.6
+imaginal: {stopfortrain(action= , curd= 8460.6, curv= 266.8, nexv= 290.0)}
+(0, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0, 'PROCEDURAL', 'RULE SELECTED: 开始驾驶')
+(0.0001, 'PROCEDURAL', 'RULE FIRED: 开始驾驶')
+(0.0001, 'g', 'MODIFIED')
+(0.0001, 'retrieval', 'START RETRIEVAL')
+(Partially) matching chunk: stopfortrain(action= 3, curd= 3776.4, curv= 154.0, nexv= 200.0)
+Base level learning: 5.298317366548036
+Spreading activation 0.0
+Partial matching -3
+Noise: 0
+Total activation 2.2983173665480363
+Time to retrieve 0.158451636640284
+(0.0001, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0.0001, 'PROCEDURAL', 'NO RULE FOUND')
+(0.1586, 'retrieval', 'CLEARED')
+(0.1586, 'retrieval', 'RETRIEVED: stopfortrain(action= 3, curd= 3776.4, curv= 154.0, nexv= 200.0)')
+(0.1586, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0.1586, 'PROCEDURAL', 'RULE SELECTED: 回忆成功')
+(0.1587, 'PROCEDURAL', 'RULE FIRED: 回忆成功')
+(0.1587, 'retriveaction', 'MODIFIED')
+(0.1587, 'g', 'MODIFIED')
+(0.1587, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0.1587, 'PROCEDURAL', 'RULE SELECTED: 如果实际距离<知识块距离且实际速度<知识块速度但未超过限制速度,则采用记忆中的制动')
+(0.1588, 'PROCEDURAL', 'RULE FIRED: 如果实际距离<知识块距离且实际速度<知识块速度但未超过限制速度,则采用记忆中的制动')
+(0.1588, 'g', 'CLEARED')
+(0.1588, 'retrieval', 'CLEARED')
+(0.1588, 'manual', 'COMMAND: press_key')
+(0.1588, 'manual', 'PREPARATION COMPLETE')
+(0.1588, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0.1588, 'PROCEDURAL', 'NO RULE FOUND')
+(0.2088, 'manual', 'INITIATION COMPLETE')
+(0.2088, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0.2088, 'PROCEDURAL', 'NO RULE FOUND')
+(0.3088, 'manual', 'KEY PRESSED: 3')
+当前按键档位为： 3
+(0.3088, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0.3088, 'PROCEDURAL', 'NO RULE FOUND')
+(0.4588, 'manual', 'MOVEMENT FINISHED')
+(0.4588, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0.4588, 'PROCEDURAL', 'NO RULE FOUND')
+actr输出的action: 3
+调整后的最终档位: 3
+调整次数: 0
+当前挡位3对应的加速度0.3375
+8315 8476
+285.0
+---------------------------------------------------
+更新后的速度、限速以及距离： 266.3 285.0 8426.6
+imaginal: {stopfortrain(action= , curd= 8426.6, curv= 266.3, nexv= 285.0)}
+(0, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0, 'PROCEDURAL', 'RULE SELECTED: 开始驾驶')
+(0.0001, 'PROCEDURAL', 'RULE FIRED: 开始驾驶')
+(0.0001, 'g', 'MODIFIED')
+(0.0001, 'retrieval', 'START RETRIEVAL')
+(Partially) matching chunk: stopfortrain(action= 3, curd= 3776.4, curv= 154.0, nexv= 200.0)
+Base level learning: 5.298317366548036
+Spreading activation 0.0
+Partial matching -3
+Noise: 0
+Total activation 2.2983173665480363
+Time to retrieve 0.158451636640284
+(0.0001, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0.0001, 'PROCEDURAL', 'NO RULE FOUND')
+(0.1586, 'retrieval', 'CLEARED')
+(0.1586, 'retrieval', 'RETRIEVED: stopfortrain(action= 3, curd= 3776.4, curv= 154.0, nexv= 200.0)')
+(0.1586, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0.1586, 'PROCEDURAL', 'RULE SELECTED: 回忆成功')
+(0.1587, 'PROCEDURAL', 'RULE FIRED: 回忆成功')
+(0.1587, 'retriveaction', 'MODIFIED')
+(0.1587, 'g', 'MODIFIED')
+(0.1587, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0.1587, 'PROCEDURAL', 'RULE SELECTED: 如果实际距离<知识块距离且实际速度<知识块速度但未超过限制速度,则采用记忆中的制动')
+(0.1588, 'PROCEDURAL', 'RULE FIRED: 如果实际距离<知识块距离且实际速度<知识块速度但未超过限制速度,则采用记忆中的制动')
+(0.1588, 'g', 'CLEARED')
+(0.1588, 'retrieval', 'CLEARED')
+(0.1588, 'manual', 'COMMAND: press_key')
+(0.1588, 'manual', 'PREPARATION COMPLETE')
+(0.1588, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0.1588, 'PROCEDURAL', 'NO RULE FOUND')
+(0.2088, 'manual', 'INITIATION COMPLETE')
+(0.2088, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0.2088, 'PROCEDURAL', 'NO RULE FOUND')
+(0.3088, 'manual', 'KEY PRESSED: 3')
+当前按键档位为： 3
+(0.3088, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0.3088, 'PROCEDURAL', 'NO RULE FOUND')
+(0.4588, 'manual', 'MOVEMENT FINISHED')
+(0.4588, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0.4588, 'PROCEDURAL', 'NO RULE FOUND')
+actr输出的action: 3
+调整后的最终档位: 3
+调整次数: 0
+当前挡位3对应的加速度0.3375
+8315 8476
+285.0
+---------------------------------------------------
+更新后的速度、限速以及距离： 265.7 285.0 8392.7
+imaginal: {stopfortrain(action= , curd= 8392.7, curv= 265.7, nexv= 285.0)}
+(0, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0, 'PROCEDURAL', 'RULE SELECTED: 开始驾驶')
+(0.0001, 'PROCEDURAL', 'RULE FIRED: 开始驾驶')
+(0.0001, 'g', 'MODIFIED')
+(0.0001, 'retrieval', 'START RETRIEVAL')
+(Partially) matching chunk: stopfortrain(action= 3, curd= 3776.4, curv= 154.0, nexv= 200.0)
+Base level learning: 5.298317366548036
+Spreading activation 0.0
+Partial matching -3
+Noise: 0
+Total activation 2.2983173665480363
+Time to retrieve 0.158451636640284
+(0.0001, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0.0001, 'PROCEDURAL', 'NO RULE FOUND')
+(0.1586, 'retrieval', 'CLEARED')
+(0.1586, 'retrieval', 'RETRIEVED: stopfortrain(action= 3, curd= 3776.4, curv= 154.0, nexv= 200.0)')
+(0.1586, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0.1586, 'PROCEDURAL', 'RULE SELECTED: 回忆成功')
+(0.1587, 'PROCEDURAL', 'RULE FIRED: 回忆成功')
+(0.1587, 'retriveaction', 'MODIFIED')
+(0.1587, 'g', 'MODIFIED')
+(0.1587, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0.1587, 'PROCEDURAL', 'RULE SELECTED: 如果实际距离<知识块距离且实际速度<知识块速度但未超过限制速度,则采用记忆中的制动')
+(0.1588, 'PROCEDURAL', 'RULE FIRED: 如果实际距离<知识块距离且实际速度<知识块速度但未超过限制速度,则采用记忆中的制动')
+(0.1588, 'g', 'CLEARED')
+(0.1588, 'retrieval', 'CLEARED')
+(0.1588, 'manual', 'COMMAND: press_key')
+(0.1588, 'manual', 'PREPARATION COMPLETE')
+(0.1588, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0.1588, 'PROCEDURAL', 'NO RULE FOUND')
+(0.2088, 'manual', 'INITIATION COMPLETE')
+(0.2088, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0.2088, 'PROCEDURAL', 'NO RULE FOUND')
+(0.3088, 'manual', 'KEY PRESSED: 3')
+当前按键档位为： 3
+(0.3088, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0.3088, 'PROCEDURAL', 'NO RULE FOUND')
+(0.4588, 'manual', 'MOVEMENT FINISHED')
+(0.4588, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0.4588, 'PROCEDURAL', 'NO RULE FOUND')
+actr输出的action: 3
+调整后的最终档位: 3
+调整次数: 0
+当前挡位3对应的加速度0.3375
+8315 8476
+285.0
+---------------------------------------------------
+更新后的速度、限速以及距离： 265.2 285.0 8358.9
+imaginal: {stopfortrain(action= , curd= 8358.9, curv= 265.2, nexv= 285.0)}
+(0, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0, 'PROCEDURAL', 'RULE SELECTED: 开始驾驶')
+(0.0001, 'PROCEDURAL', 'RULE FIRED: 开始驾驶')
+(0.0001, 'g', 'MODIFIED')
+(0.0001, 'retrieval', 'START RETRIEVAL')
+(Partially) matching chunk: stopfortrain(action= 3, curd= 3776.4, curv= 154.0, nexv= 200.0)
+Base level learning: 5.298317366548036
+Spreading activation 0.0
+Partial matching -3
+Noise: 0
+Total activation 2.2983173665480363
+Time to retrieve 0.158451636640284
+(0.0001, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0.0001, 'PROCEDURAL', 'NO RULE FOUND')
+(0.1586, 'retrieval', 'CLEARED')
+(0.1586, 'retrieval', 'RETRIEVED: stopfortrain(action= 3, curd= 3776.4, curv= 154.0, nexv= 200.0)')
+(0.1586, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0.1586, 'PROCEDURAL', 'RULE SELECTED: 回忆成功')
+(0.1587, 'PROCEDURAL', 'RULE FIRED: 回忆成功')
+(0.1587, 'retriveaction', 'MODIFIED')
+(0.1587, 'g', 'MODIFIED')
+(0.1587, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0.1587, 'PROCEDURAL', 'RULE SELECTED: 如果实际距离<知识块距离且实际速度<知识块速度但未超过限制速度,则采用记忆中的制动')
+(0.1588, 'PROCEDURAL', 'RULE FIRED: 如果实际距离<知识块距离且实际速度<知识块速度但未超过限制速度,则采用记忆中的制动')
+(0.1588, 'g', 'CLEARED')
+(0.1588, 'retrieval', 'CLEARED')
+(0.1588, 'manual', 'COMMAND: press_key')
+(0.1588, 'manual', 'PREPARATION COMPLETE')
+(0.1588, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0.1588, 'PROCEDURAL', 'NO RULE FOUND')
+(0.2088, 'manual', 'INITIATION COMPLETE')
+(0.2088, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0.2088, 'PROCEDURAL', 'NO RULE FOUND')
+(0.3088, 'manual', 'KEY PRESSED: 3')
+当前按键档位为： 3
+(0.3088, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0.3088, 'PROCEDURAL', 'NO RULE FOUND')
+(0.4588, 'manual', 'MOVEMENT FINISHED')
+(0.4588, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0.4588, 'PROCEDURAL', 'NO RULE FOUND')
+actr输出的action: 3
+调整后的最终档位: 3
+调整次数: 0
+当前挡位3对应的加速度0.3375
+8315 8476
+285.0
+---------------------------------------------------
+更新后的速度、限速以及距离： 264.6 285.0 8325.2
+imaginal: {stopfortrain(action= , curd= 8325.2, curv= 264.6, nexv= 285.0)}
+(0, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0, 'PROCEDURAL', 'RULE SELECTED: 开始驾驶')
+(0.0001, 'PROCEDURAL', 'RULE FIRED: 开始驾驶')
+(0.0001, 'g', 'MODIFIED')
+(0.0001, 'retrieval', 'START RETRIEVAL')
+(Partially) matching chunk: stopfortrain(action= 3, curd= 3776.4, curv= 154.0, nexv= 200.0)
+Base level learning: 5.298317366548036
+Spreading activation 0.0
+Partial matching -3
+Noise: 0
+Total activation 2.2983173665480363
+Time to retrieve 0.158451636640284
+(0.0001, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0.0001, 'PROCEDURAL', 'NO RULE FOUND')
+(0.1586, 'retrieval', 'CLEARED')
+(0.1586, 'retrieval', 'RETRIEVED: stopfortrain(action= 3, curd= 3776.4, curv= 154.0, nexv= 200.0)')
+(0.1586, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0.1586, 'PROCEDURAL', 'RULE SELECTED: 回忆成功')
+(0.1587, 'PROCEDURAL', 'RULE FIRED: 回忆成功')
+(0.1587, 'retriveaction', 'MODIFIED')
+(0.1587, 'g', 'MODIFIED')
+(0.1587, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0.1587, 'PROCEDURAL', 'RULE SELECTED: 如果实际距离<知识块距离且实际速度<知识块速度但未超过限制速度,则采用记忆中的制动')
+(0.1588, 'PROCEDURAL', 'RULE FIRED: 如果实际距离<知识块距离且实际速度<知识块速度但未超过限制速度,则采用记忆中的制动')
+(0.1588, 'g', 'CLEARED')
+(0.1588, 'retrieval', 'CLEARED')
+(0.1588, 'manual', 'COMMAND: press_key')
+(0.1588, 'manual', 'PREPARATION COMPLETE')
+(0.1588, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0.1588, 'PROCEDURAL', 'NO RULE FOUND')
+(0.2088, 'manual', 'INITIATION COMPLETE')
+(0.2088, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0.2088, 'PROCEDURAL', 'NO RULE FOUND')
+(0.3088, 'manual', 'KEY PRESSED: 3')
+当前按键档位为： 3
+(0.3088, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0.3088, 'PROCEDURAL', 'NO RULE FOUND')
+(0.4588, 'manual', 'MOVEMENT FINISHED')
+(0.4588, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0.4588, 'PROCEDURAL', 'NO RULE FOUND')
+actr输出的action: 3
+调整后的最终档位: 3
+调整次数: 0
+当前挡位3对应的加速度0.3375
+8315 8476
+285.0
+---------------------------------------------------
+更新后的速度、限速以及距离： 264.1 285.0 8291.5
+imaginal: {stopfortrain(action= , curd= 8291.5, curv= 264.1, nexv= 285.0)}
+(0, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0, 'PROCEDURAL', 'RULE SELECTED: 开始驾驶')
+(0.0001, 'PROCEDURAL', 'RULE FIRED: 开始驾驶')
+(0.0001, 'g', 'MODIFIED')
+(0.0001, 'retrieval', 'START RETRIEVAL')
+(Partially) matching chunk: stopfortrain(action= 3, curd= 3776.4, curv= 154.0, nexv= 200.0)
+Base level learning: 5.298317366548036
+Spreading activation 0.0
+Partial matching -3
+Noise: 0
+Total activation 2.2983173665480363
+Time to retrieve 0.158451636640284
+(0.0001, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0.0001, 'PROCEDURAL', 'NO RULE FOUND')
+(0.1586, 'retrieval', 'CLEARED')
+(0.1586, 'retrieval', 'RETRIEVED: stopfortrain(action= 3, curd= 3776.4, curv= 154.0, nexv= 200.0)')
+(0.1586, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0.1586, 'PROCEDURAL', 'RULE SELECTED: 回忆成功')
+(0.1587, 'PROCEDURAL', 'RULE FIRED: 回忆成功')
+(0.1587, 'retriveaction', 'MODIFIED')
+(0.1587, 'g', 'MODIFIED')
+(0.1587, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0.1587, 'PROCEDURAL', 'RULE SELECTED: 如果实际距离<知识块距离且实际速度<知识块速度但未超过限制速度,则采用记忆中的制动')
+(0.1588, 'PROCEDURAL', 'RULE FIRED: 如果实际距离<知识块距离且实际速度<知识块速度但未超过限制速度,则采用记忆中的制动')
+(0.1588, 'g', 'CLEARED')
+(0.1588, 'retrieval', 'CLEARED')
+(0.1588, 'manual', 'COMMAND: press_key')
+(0.1588, 'manual', 'PREPARATION COMPLETE')
+(0.1588, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0.1588, 'PROCEDURAL', 'NO RULE FOUND')
+(0.2088, 'manual', 'INITIATION COMPLETE')
+(0.2088, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0.2088, 'PROCEDURAL', 'NO RULE FOUND')
+(0.3088, 'manual', 'KEY PRESSED: 3')
+当前按键档位为： 3
+(0.3088, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0.3088, 'PROCEDURAL', 'NO RULE FOUND')
+(0.4588, 'manual', 'MOVEMENT FINISHED')
+(0.4588, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0.4588, 'PROCEDURAL', 'NO RULE FOUND')
+actr输出的action: 3
+调整后的最终档位: 3
+调整次数: 0
+当前挡位3对应的加速度0.3375
+8139 8315
+285.0
+---------------------------------------------------
+更新后的速度、限速以及距离： 263.5 285.0 8257.8
+imaginal: {stopfortrain(action= , curd= 8257.8, curv= 263.5, nexv= 285.0)}
+(0, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0, 'PROCEDURAL', 'RULE SELECTED: 开始驾驶')
+(0.0001, 'PROCEDURAL', 'RULE FIRED: 开始驾驶')
+(0.0001, 'g', 'MODIFIED')
+(0.0001, 'retrieval', 'START RETRIEVAL')
+(Partially) matching chunk: stopfortrain(action= 3, curd= 3776.4, curv= 154.0, nexv= 200.0)
+Base level learning: 5.298317366548036
+Spreading activation 0.0
+Partial matching -3
+Noise: 0
+Total activation 2.2983173665480363
+Time to retrieve 0.158451636640284
+(0.0001, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0.0001, 'PROCEDURAL', 'NO RULE FOUND')
+(0.1586, 'retrieval', 'CLEARED')
+(0.1586, 'retrieval', 'RETRIEVED: stopfortrain(action= 3, curd= 3776.4, curv= 154.0, nexv= 200.0)')
+(0.1586, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0.1586, 'PROCEDURAL', 'RULE SELECTED: 回忆成功')
+(0.1587, 'PROCEDURAL', 'RULE FIRED: 回忆成功')
+(0.1587, 'retriveaction', 'MODIFIED')
+(0.1587, 'g', 'MODIFIED')
+(0.1587, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0.1587, 'PROCEDURAL', 'RULE SELECTED: 如果实际距离<知识块距离且实际速度<知识块速度但未超过限制速度,则采用记忆中的制动')
+(0.1588, 'PROCEDURAL', 'RULE FIRED: 如果实际距离<知识块距离且实际速度<知识块速度但未超过限制速度,则采用记忆中的制动')
+(0.1588, 'g', 'CLEARED')
+(0.1588, 'retrieval', 'CLEARED')
+(0.1588, 'manual', 'COMMAND: press_key')
+(0.1588, 'manual', 'PREPARATION COMPLETE')
+(0.1588, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0.1588, 'PROCEDURAL', 'NO RULE FOUND')
+(0.2088, 'manual', 'INITIATION COMPLETE')
+(0.2088, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0.2088, 'PROCEDURAL', 'NO RULE FOUND')
+(0.3088, 'manual', 'KEY PRESSED: 3')
+当前按键档位为： 3
+(0.3088, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0.3088, 'PROCEDURAL', 'NO RULE FOUND')
+(0.4588, 'manual', 'MOVEMENT FINISHED')
+(0.4588, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0.4588, 'PROCEDURAL', 'NO RULE FOUND')
+actr输出的action: 3
+调整后的最终档位: 3
+调整次数: 0
+当前挡位3对应的加速度0.3375
+8139 8315
+285.0
+---------------------------------------------------
+更新后的速度、限速以及距离： 262.9 285.0 8224.3
+imaginal: {stopfortrain(action= , curd= 8224.3, curv= 262.9, nexv= 285.0)}
+(0, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0, 'PROCEDURAL', 'RULE SELECTED: 开始驾驶')
+(0.0001, 'PROCEDURAL', 'RULE FIRED: 开始驾驶')
+(0.0001, 'g', 'MODIFIED')
+(0.0001, 'retrieval', 'START RETRIEVAL')
+(Partially) matching chunk: stopfortrain(action= 3, curd= 3776.4, curv= 154.0, nexv= 200.0)
+Base level learning: 5.298317366548036
+Spreading activation 0.0
+Partial matching -3
+Noise: 0
+Total activation 2.2983173665480363
+Time to retrieve 0.158451636640284
+(0.0001, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0.0001, 'PROCEDURAL', 'NO RULE FOUND')
+(0.1586, 'retrieval', 'CLEARED')
+(0.1586, 'retrieval', 'RETRIEVED: stopfortrain(action= 3, curd= 3776.4, curv= 154.0, nexv= 200.0)')
+(0.1586, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0.1586, 'PROCEDURAL', 'RULE SELECTED: 回忆成功')
+(0.1587, 'PROCEDURAL', 'RULE FIRED: 回忆成功')
+(0.1587, 'retriveaction', 'MODIFIED')
+(0.1587, 'g', 'MODIFIED')
+(0.1587, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0.1587, 'PROCEDURAL', 'RULE SELECTED: 如果实际距离<知识块距离且实际速度<知识块速度但未超过限制速度,则采用记忆中的制动')
+(0.1588, 'PROCEDURAL', 'RULE FIRED: 如果实际距离<知识块距离且实际速度<知识块速度但未超过限制速度,则采用记忆中的制动')
+(0.1588, 'g', 'CLEARED')
+(0.1588, 'retrieval', 'CLEARED')
+(0.1588, 'manual', 'COMMAND: press_key')
+(0.1588, 'manual', 'PREPARATION COMPLETE')
+(0.1588, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0.1588, 'PROCEDURAL', 'NO RULE FOUND')
+(0.2088, 'manual', 'INITIATION COMPLETE')
+(0.2088, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0.2088, 'PROCEDURAL', 'NO RULE FOUND')
+(0.3088, 'manual', 'KEY PRESSED: 3')
+当前按键档位为： 3
+(0.3088, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0.3088, 'PROCEDURAL', 'NO RULE FOUND')
+(0.4588, 'manual', 'MOVEMENT FINISHED')
+(0.4588, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0.4588, 'PROCEDURAL', 'NO RULE FOUND')
+actr输出的action: 3
+调整后的最终档位: 3
+调整次数: 0
+当前挡位3对应的加速度0.3375
+8139 8315
+285.0
+---------------------------------------------------
+更新后的速度、限速以及距离： 262.4 285.0 8190.8
+imaginal: {stopfortrain(action= , curd= 8190.8, curv= 262.4, nexv= 285.0)}
+(0, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0, 'PROCEDURAL', 'RULE SELECTED: 开始驾驶')
+(0.0001, 'PROCEDURAL', 'RULE FIRED: 开始驾驶')
+(0.0001, 'g', 'MODIFIED')
+(0.0001, 'retrieval', 'START RETRIEVAL')
+(Partially) matching chunk: stopfortrain(action= 3, curd= 3776.4, curv= 154.0, nexv= 200.0)
+Base level learning: 5.298317366548036
+Spreading activation 0.0
+Partial matching -3
+Noise: 0
+Total activation 2.2983173665480363
+Time to retrieve 0.158451636640284
+(0.0001, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0.0001, 'PROCEDURAL', 'NO RULE FOUND')
+(0.1586, 'retrieval', 'CLEARED')
+(0.1586, 'retrieval', 'RETRIEVED: stopfortrain(action= 3, curd= 3776.4, curv= 154.0, nexv= 200.0)')
+(0.1586, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0.1586, 'PROCEDURAL', 'RULE SELECTED: 回忆成功')
+(0.1587, 'PROCEDURAL', 'RULE FIRED: 回忆成功')
+(0.1587, 'retriveaction', 'MODIFIED')
+(0.1587, 'g', 'MODIFIED')
+(0.1587, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0.1587, 'PROCEDURAL', 'RULE SELECTED: 如果实际距离<知识块距离且实际速度<知识块速度但未超过限制速度,则采用记忆中的制动')
+(0.1588, 'PROCEDURAL', 'RULE FIRED: 如果实际距离<知识块距离且实际速度<知识块速度但未超过限制速度,则采用记忆中的制动')
+(0.1588, 'g', 'CLEARED')
+(0.1588, 'retrieval', 'CLEARED')
+(0.1588, 'manual', 'COMMAND: press_key')
+(0.1588, 'manual', 'PREPARATION COMPLETE')
+(0.1588, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0.1588, 'PROCEDURAL', 'NO RULE FOUND')
+(0.2088, 'manual', 'INITIATION COMPLETE')
+(0.2088, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0.2088, 'PROCEDURAL', 'NO RULE FOUND')
+(0.3088, 'manual', 'KEY PRESSED: 3')
+当前按键档位为： 3
+(0.3088, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0.3088, 'PROCEDURAL', 'NO RULE FOUND')
+(0.4588, 'manual', 'MOVEMENT FINISHED')
+(0.4588, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0.4588, 'PROCEDURAL', 'NO RULE FOUND')
+actr输出的action: 3
+调整后的最终档位: 3
+调整次数: 0
+当前挡位3对应的加速度0.3375
+8139 8315
+285.0
+---------------------------------------------------
+更新后的速度、限速以及距离： 261.8 285.0 8157.4
+imaginal: {stopfortrain(action= , curd= 8157.4, curv= 261.8, nexv= 285.0)}
+(0, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0, 'PROCEDURAL', 'RULE SELECTED: 开始驾驶')
+(0.0001, 'PROCEDURAL', 'RULE FIRED: 开始驾驶')
+(0.0001, 'g', 'MODIFIED')
+(0.0001, 'retrieval', 'START RETRIEVAL')
+(Partially) matching chunk: stopfortrain(action= 3, curd= 3776.4, curv= 154.0, nexv= 200.0)
+Base level learning: 5.298317366548036
+Spreading activation 0.0
+Partial matching -3
+Noise: 0
+Total activation 2.2983173665480363
+Time to retrieve 0.158451636640284
+(0.0001, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0.0001, 'PROCEDURAL', 'NO RULE FOUND')
+(0.1586, 'retrieval', 'CLEARED')
+(0.1586, 'retrieval', 'RETRIEVED: stopfortrain(action= 3, curd= 3776.4, curv= 154.0, nexv= 200.0)')
+(0.1586, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0.1586, 'PROCEDURAL', 'RULE SELECTED: 回忆成功')
+(0.1587, 'PROCEDURAL', 'RULE FIRED: 回忆成功')
+(0.1587, 'retriveaction', 'MODIFIED')
+(0.1587, 'g', 'MODIFIED')
+(0.1587, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0.1587, 'PROCEDURAL', 'RULE SELECTED: 如果实际距离<知识块距离且实际速度<知识块速度但未超过限制速度,则采用记忆中的制动')
+(0.1588, 'PROCEDURAL', 'RULE FIRED: 如果实际距离<知识块距离且实际速度<知识块速度但未超过限制速度,则采用记忆中的制动')
+(0.1588, 'g', 'CLEARED')
+(0.1588, 'retrieval', 'CLEARED')
+(0.1588, 'manual', 'COMMAND: press_key')
+(0.1588, 'manual', 'PREPARATION COMPLETE')
+(0.1588, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0.1588, 'PROCEDURAL', 'NO RULE FOUND')
+(0.2088, 'manual', 'INITIATION COMPLETE')
+(0.2088, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0.2088, 'PROCEDURAL', 'NO RULE FOUND')
+(0.3088, 'manual', 'KEY PRESSED: 3')
+当前按键档位为： 3
+(0.3088, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0.3088, 'PROCEDURAL', 'NO RULE FOUND')
+(0.4588, 'manual', 'MOVEMENT FINISHED')
+(0.4588, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0.4588, 'PROCEDURAL', 'NO RULE FOUND')
+actr输出的action: 3
+调整后的最终档位: 3
+调整次数: 0
+当前挡位3对应的加速度0.3375
+8139 8315
+285.0
+---------------------------------------------------
+更新后的速度、限速以及距离： 261.3 285.0 8124.1
+imaginal: {stopfortrain(action= , curd= 8124.1, curv= 261.3, nexv= 285.0)}
+(0, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0, 'PROCEDURAL', 'RULE SELECTED: 开始驾驶')
+(0.0001, 'PROCEDURAL', 'RULE FIRED: 开始驾驶')
+(0.0001, 'g', 'MODIFIED')
+(0.0001, 'retrieval', 'START RETRIEVAL')
+(Partially) matching chunk: stopfortrain(action= 3, curd= 3776.4, curv= 154.0, nexv= 200.0)
+Base level learning: 5.298317366548036
+Spreading activation 0.0
+Partial matching -3
+Noise: 0
+Total activation 2.2983173665480363
+Time to retrieve 0.158451636640284
+(0.0001, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0.0001, 'PROCEDURAL', 'NO RULE FOUND')
+(0.1586, 'retrieval', 'CLEARED')
+(0.1586, 'retrieval', 'RETRIEVED: stopfortrain(action= 3, curd= 3776.4, curv= 154.0, nexv= 200.0)')
+(0.1586, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0.1586, 'PROCEDURAL', 'RULE SELECTED: 回忆成功')
+(0.1587, 'PROCEDURAL', 'RULE FIRED: 回忆成功')
+(0.1587, 'retriveaction', 'MODIFIED')
+(0.1587, 'g', 'MODIFIED')
+(0.1587, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0.1587, 'PROCEDURAL', 'RULE SELECTED: 如果实际距离<知识块距离且实际速度<知识块速度但未超过限制速度,则采用记忆中的制动')
+(0.1588, 'PROCEDURAL', 'RULE FIRED: 如果实际距离<知识块距离且实际速度<知识块速度但未超过限制速度,则采用记忆中的制动')
+(0.1588, 'g', 'CLEARED')
+(0.1588, 'retrieval', 'CLEARED')
+(0.1588, 'manual', 'COMMAND: press_key')
+(0.1588, 'manual', 'PREPARATION COMPLETE')
+(0.1588, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0.1588, 'PROCEDURAL', 'NO RULE FOUND')
+(0.2088, 'manual', 'INITIATION COMPLETE')
+(0.2088, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0.2088, 'PROCEDURAL', 'NO RULE FOUND')
+(0.3088, 'manual', 'KEY PRESSED: 3')
+当前按键档位为： 3
+(0.3088, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0.3088, 'PROCEDURAL', 'NO RULE FOUND')
+(0.4588, 'manual', 'MOVEMENT FINISHED')
+(0.4588, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0.4588, 'PROCEDURAL', 'NO RULE FOUND')
+actr输出的action: 3
+调整后的最终档位: 3
+调整次数: 0
+当前挡位3对应的加速度0.3375
+7983 8139
+280.0
+---------------------------------------------------
+更新后的速度、限速以及距离： 260.7 280.0 8090.8
+imaginal: {stopfortrain(action= , curd= 8090.8, curv= 260.7, nexv= 280.0)}
+(0, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0, 'PROCEDURAL', 'RULE SELECTED: 开始驾驶')
+(0.0001, 'PROCEDURAL', 'RULE FIRED: 开始驾驶')
+(0.0001, 'g', 'MODIFIED')
+(0.0001, 'retrieval', 'START RETRIEVAL')
+(Partially) matching chunk: stopfortrain(action= 3, curd= 3776.4, curv= 154.0, nexv= 200.0)
+Base level learning: 5.298317366548036
+Spreading activation 0.0
+Partial matching -3
+Noise: 0
+Total activation 2.2983173665480363
+Time to retrieve 0.158451636640284
+(0.0001, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0.0001, 'PROCEDURAL', 'NO RULE FOUND')
+(0.1586, 'retrieval', 'CLEARED')
+(0.1586, 'retrieval', 'RETRIEVED: stopfortrain(action= 3, curd= 3776.4, curv= 154.0, nexv= 200.0)')
+(0.1586, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0.1586, 'PROCEDURAL', 'RULE SELECTED: 回忆成功')
+(0.1587, 'PROCEDURAL', 'RULE FIRED: 回忆成功')
+(0.1587, 'retriveaction', 'MODIFIED')
+(0.1587, 'g', 'MODIFIED')
+(0.1587, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0.1587, 'PROCEDURAL', 'RULE SELECTED: 如果实际距离<知识块距离且实际速度<知识块速度但未超过限制速度,则采用记忆中的制动')
+(0.1588, 'PROCEDURAL', 'RULE FIRED: 如果实际距离<知识块距离且实际速度<知识块速度但未超过限制速度,则采用记忆中的制动')
+(0.1588, 'g', 'CLEARED')
+(0.1588, 'retrieval', 'CLEARED')
+(0.1588, 'manual', 'COMMAND: press_key')
+(0.1588, 'manual', 'PREPARATION COMPLETE')
+(0.1588, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0.1588, 'PROCEDURAL', 'NO RULE FOUND')
+(0.2088, 'manual', 'INITIATION COMPLETE')
+(0.2088, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0.2088, 'PROCEDURAL', 'NO RULE FOUND')
+(0.3088, 'manual', 'KEY PRESSED: 3')
+当前按键档位为： 3
+(0.3088, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0.3088, 'PROCEDURAL', 'NO RULE FOUND')
+(0.4588, 'manual', 'MOVEMENT FINISHED')
+(0.4588, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0.4588, 'PROCEDURAL', 'NO RULE FOUND')
+actr输出的action: 3
+调整后的最终档位: 3
+调整次数: 0
+当前挡位3对应的加速度0.3375
+7983 8139
+280.0
+---------------------------------------------------
+更新后的速度、限速以及距离： 260.2 280.0 8057.6
+imaginal: {stopfortrain(action= , curd= 8057.6, curv= 260.2, nexv= 280.0)}
+(0, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0, 'PROCEDURAL', 'RULE SELECTED: 开始驾驶')
+(0.0001, 'PROCEDURAL', 'RULE FIRED: 开始驾驶')
+(0.0001, 'g', 'MODIFIED')
+(0.0001, 'retrieval', 'START RETRIEVAL')
+(Partially) matching chunk: stopfortrain(action= 3, curd= 3776.4, curv= 154.0, nexv= 200.0)
+Base level learning: 5.298317366548036
+Spreading activation 0.0
+Partial matching -3
+Noise: 0
+Total activation 2.2983173665480363
+Time to retrieve 0.158451636640284
+(0.0001, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0.0001, 'PROCEDURAL', 'NO RULE FOUND')
+(0.1586, 'retrieval', 'CLEARED')
+(0.1586, 'retrieval', 'RETRIEVED: stopfortrain(action= 3, curd= 3776.4, curv= 154.0, nexv= 200.0)')
+(0.1586, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0.1586, 'PROCEDURAL', 'RULE SELECTED: 回忆成功')
+(0.1587, 'PROCEDURAL', 'RULE FIRED: 回忆成功')
+(0.1587, 'retriveaction', 'MODIFIED')
+(0.1587, 'g', 'MODIFIED')
+(0.1587, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0.1587, 'PROCEDURAL', 'RULE SELECTED: 如果实际距离<知识块距离且实际速度<知识块速度但未超过限制速度,则采用记忆中的制动')
+(0.1588, 'PROCEDURAL', 'RULE FIRED: 如果实际距离<知识块距离且实际速度<知识块速度但未超过限制速度,则采用记忆中的制动')
+(0.1588, 'g', 'CLEARED')
+(0.1588, 'retrieval', 'CLEARED')
+(0.1588, 'manual', 'COMMAND: press_key')
+(0.1588, 'manual', 'PREPARATION COMPLETE')
+(0.1588, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0.1588, 'PROCEDURAL', 'NO RULE FOUND')
+(0.2088, 'manual', 'INITIATION COMPLETE')
+(0.2088, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0.2088, 'PROCEDURAL', 'NO RULE FOUND')
+(0.3088, 'manual', 'KEY PRESSED: 3')
+当前按键档位为： 3
+(0.3088, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0.3088, 'PROCEDURAL', 'NO RULE FOUND')
+(0.4588, 'manual', 'MOVEMENT FINISHED')
+(0.4588, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0.4588, 'PROCEDURAL', 'NO RULE FOUND')
+actr输出的action: 3
+调整后的最终档位: 3
+调整次数: 0
+当前挡位3对应的加速度0.3375
+7983 8139
+280.0
+---------------------------------------------------
+更新后的速度、限速以及距离： 259.6 280.0 8024.5
+imaginal: {stopfortrain(action= , curd= 8024.5, curv= 259.6, nexv= 280.0)}
+(0, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0, 'PROCEDURAL', 'RULE SELECTED: 开始驾驶')
+(0.0001, 'PROCEDURAL', 'RULE FIRED: 开始驾驶')
+(0.0001, 'g', 'MODIFIED')
+(0.0001, 'retrieval', 'START RETRIEVAL')
+(Partially) matching chunk: stopfortrain(action= 3, curd= 3776.4, curv= 154.0, nexv= 200.0)
+Base level learning: 5.298317366548036
+Spreading activation 0.0
+Partial matching -3
+Noise: 0
+Total activation 2.2983173665480363
+Time to retrieve 0.158451636640284
+(0.0001, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0.0001, 'PROCEDURAL', 'NO RULE FOUND')
+(0.1586, 'retrieval', 'CLEARED')
+(0.1586, 'retrieval', 'RETRIEVED: stopfortrain(action= 3, curd= 3776.4, curv= 154.0, nexv= 200.0)')
+(0.1586, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0.1586, 'PROCEDURAL', 'RULE SELECTED: 回忆成功')
+(0.1587, 'PROCEDURAL', 'RULE FIRED: 回忆成功')
+(0.1587, 'retriveaction', 'MODIFIED')
+(0.1587, 'g', 'MODIFIED')
+(0.1587, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0.1587, 'PROCEDURAL', 'RULE SELECTED: 如果实际距离<知识块距离且实际速度<知识块速度但未超过限制速度,则采用记忆中的制动')
+(0.1588, 'PROCEDURAL', 'RULE FIRED: 如果实际距离<知识块距离且实际速度<知识块速度但未超过限制速度,则采用记忆中的制动')
+(0.1588, 'g', 'CLEARED')
+(0.1588, 'retrieval', 'CLEARED')
+(0.1588, 'manual', 'COMMAND: press_key')
+(0.1588, 'manual', 'PREPARATION COMPLETE')
+(0.1588, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0.1588, 'PROCEDURAL', 'NO RULE FOUND')
+(0.2088, 'manual', 'INITIATION COMPLETE')
+(0.2088, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0.2088, 'PROCEDURAL', 'NO RULE FOUND')
+(0.3088, 'manual', 'KEY PRESSED: 3')
+当前按键档位为： 3
+(0.3088, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0.3088, 'PROCEDURAL', 'NO RULE FOUND')
+(0.4588, 'manual', 'MOVEMENT FINISHED')
+(0.4588, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0.4588, 'PROCEDURAL', 'NO RULE FOUND')
+actr输出的action: 3
+调整后的最终档位: 3
+调整次数: 0
+当前挡位3对应的加速度0.3375
+7983 8139
+280.0
+---------------------------------------------------
+更新后的速度、限速以及距离： 259.0 280.0 7991.5
+imaginal: {stopfortrain(action= , curd= 7991.5, curv= 259.0, nexv= 280.0)}
+(0, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0, 'PROCEDURAL', 'RULE SELECTED: 开始驾驶')
+(0.0001, 'PROCEDURAL', 'RULE FIRED: 开始驾驶')
+(0.0001, 'g', 'MODIFIED')
+(0.0001, 'retrieval', 'START RETRIEVAL')
+(Partially) matching chunk: stopfortrain(action= 3, curd= 3776.4, curv= 154.0, nexv= 200.0)
+Base level learning: 5.298317366548036
+Spreading activation 0.0
+Partial matching -3
+Noise: 0
+Total activation 2.2983173665480363
+Time to retrieve 0.158451636640284
+(0.0001, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0.0001, 'PROCEDURAL', 'NO RULE FOUND')
+(0.1586, 'retrieval', 'CLEARED')
+(0.1586, 'retrieval', 'RETRIEVED: stopfortrain(action= 3, curd= 3776.4, curv= 154.0, nexv= 200.0)')
+(0.1586, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0.1586, 'PROCEDURAL', 'RULE SELECTED: 回忆成功')
+(0.1587, 'PROCEDURAL', 'RULE FIRED: 回忆成功')
+(0.1587, 'retriveaction', 'MODIFIED')
+(0.1587, 'g', 'MODIFIED')
+(0.1587, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0.1587, 'PROCEDURAL', 'RULE SELECTED: 如果实际距离<知识块距离且实际速度<知识块速度但未超过限制速度,则采用记忆中的制动')
+(0.1588, 'PROCEDURAL', 'RULE FIRED: 如果实际距离<知识块距离且实际速度<知识块速度但未超过限制速度,则采用记忆中的制动')
+(0.1588, 'g', 'CLEARED')
+(0.1588, 'retrieval', 'CLEARED')
+(0.1588, 'manual', 'COMMAND: press_key')
+(0.1588, 'manual', 'PREPARATION COMPLETE')
+(0.1588, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0.1588, 'PROCEDURAL', 'NO RULE FOUND')
+(0.2088, 'manual', 'INITIATION COMPLETE')
+(0.2088, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0.2088, 'PROCEDURAL', 'NO RULE FOUND')
+(0.3088, 'manual', 'KEY PRESSED: 3')
+当前按键档位为： 3
+(0.3088, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0.3088, 'PROCEDURAL', 'NO RULE FOUND')
+(0.4588, 'manual', 'MOVEMENT FINISHED')
+(0.4588, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0.4588, 'PROCEDURAL', 'NO RULE FOUND')
+actr输出的action: 3
+调整后的最终档位: 3
+调整次数: 0
+当前挡位3对应的加速度0.3375
+7983 8139
+280.0
+---------------------------------------------------
+更新后的速度、限速以及距离： 258.5 280.0 7958.5
+imaginal: {stopfortrain(action= , curd= 7958.5, curv= 258.5, nexv= 280.0)}
+(0, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0, 'PROCEDURAL', 'RULE SELECTED: 开始驾驶')
+(0.0001, 'PROCEDURAL', 'RULE FIRED: 开始驾驶')
+(0.0001, 'g', 'MODIFIED')
+(0.0001, 'retrieval', 'START RETRIEVAL')
+(Partially) matching chunk: stopfortrain(action= 3, curd= 3776.4, curv= 154.0, nexv= 200.0)
+Base level learning: 5.298317366548036
+Spreading activation 0.0
+Partial matching -3
+Noise: 0
+Total activation 2.2983173665480363
+Time to retrieve 0.158451636640284
+(0.0001, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0.0001, 'PROCEDURAL', 'NO RULE FOUND')
+(0.1586, 'retrieval', 'CLEARED')
+(0.1586, 'retrieval', 'RETRIEVED: stopfortrain(action= 3, curd= 3776.4, curv= 154.0, nexv= 200.0)')
+(0.1586, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0.1586, 'PROCEDURAL', 'RULE SELECTED: 回忆成功')
+(0.1587, 'PROCEDURAL', 'RULE FIRED: 回忆成功')
+(0.1587, 'retriveaction', 'MODIFIED')
+(0.1587, 'g', 'MODIFIED')
+(0.1587, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0.1587, 'PROCEDURAL', 'RULE SELECTED: 如果实际距离<知识块距离且实际速度<知识块速度但未超过限制速度,则采用记忆中的制动')
+(0.1588, 'PROCEDURAL', 'RULE FIRED: 如果实际距离<知识块距离且实际速度<知识块速度但未超过限制速度,则采用记忆中的制动')
+(0.1588, 'g', 'CLEARED')
+(0.1588, 'retrieval', 'CLEARED')
+(0.1588, 'manual', 'COMMAND: press_key')
+(0.1588, 'manual', 'PREPARATION COMPLETE')
+(0.1588, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0.1588, 'PROCEDURAL', 'NO RULE FOUND')
+(0.2088, 'manual', 'INITIATION COMPLETE')
+(0.2088, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0.2088, 'PROCEDURAL', 'NO RULE FOUND')
+(0.3088, 'manual', 'KEY PRESSED: 3')
+当前按键档位为： 3
+(0.3088, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0.3088, 'PROCEDURAL', 'NO RULE FOUND')
+(0.4588, 'manual', 'MOVEMENT FINISHED')
+(0.4588, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0.4588, 'PROCEDURAL', 'NO RULE FOUND')
+actr输出的action: 3
+调整后的最终档位: 3
+调整次数: 0
+当前挡位3对应的加速度0.3375
+7674 7983
+275.0
+---------------------------------------------------
+更新后的速度、限速以及距离： 257.9 275.0 7925.6
+imaginal: {stopfortrain(action= , curd= 7925.6, curv= 257.9, nexv= 275.0)}
+(0, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0, 'PROCEDURAL', 'RULE SELECTED: 开始驾驶')
+(0.0001, 'PROCEDURAL', 'RULE FIRED: 开始驾驶')
+(0.0001, 'g', 'MODIFIED')
+(0.0001, 'retrieval', 'START RETRIEVAL')
+(Partially) matching chunk: stopfortrain(action= 3, curd= 3776.4, curv= 154.0, nexv= 200.0)
+Base level learning: 5.298317366548036
+Spreading activation 0.0
+Partial matching -3
+Noise: 0
+Total activation 2.2983173665480363
+Time to retrieve 0.158451636640284
+(0.0001, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0.0001, 'PROCEDURAL', 'NO RULE FOUND')
+(0.1586, 'retrieval', 'CLEARED')
+(0.1586, 'retrieval', 'RETRIEVED: stopfortrain(action= 3, curd= 3776.4, curv= 154.0, nexv= 200.0)')
+(0.1586, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0.1586, 'PROCEDURAL', 'RULE SELECTED: 回忆成功')
+(0.1587, 'PROCEDURAL', 'RULE FIRED: 回忆成功')
+(0.1587, 'retriveaction', 'MODIFIED')
+(0.1587, 'g', 'MODIFIED')
+(0.1587, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0.1587, 'PROCEDURAL', 'RULE SELECTED: 如果实际距离<知识块距离且实际速度<知识块速度但未超过限制速度,则采用记忆中的制动')
+(0.1588, 'PROCEDURAL', 'RULE FIRED: 如果实际距离<知识块距离且实际速度<知识块速度但未超过限制速度,则采用记忆中的制动')
+(0.1588, 'g', 'CLEARED')
+(0.1588, 'retrieval', 'CLEARED')
+(0.1588, 'manual', 'COMMAND: press_key')
+(0.1588, 'manual', 'PREPARATION COMPLETE')
+(0.1588, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0.1588, 'PROCEDURAL', 'NO RULE FOUND')
+(0.2088, 'manual', 'INITIATION COMPLETE')
+(0.2088, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0.2088, 'PROCEDURAL', 'NO RULE FOUND')
+(0.3088, 'manual', 'KEY PRESSED: 3')
+当前按键档位为： 3
+(0.3088, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0.3088, 'PROCEDURAL', 'NO RULE FOUND')
+(0.4588, 'manual', 'MOVEMENT FINISHED')
+(0.4588, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0.4588, 'PROCEDURAL', 'NO RULE FOUND')
+actr输出的action: 3
+调整后的最终档位: 3
+调整次数: 0
+当前挡位3对应的加速度0.3375
+7674 7983
+275.0
+---------------------------------------------------
+更新后的速度、限速以及距离： 257.4 275.0 7892.8
+imaginal: {stopfortrain(action= , curd= 7892.8, curv= 257.4, nexv= 275.0)}
+(0, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0, 'PROCEDURAL', 'RULE SELECTED: 开始驾驶')
+(0.0001, 'PROCEDURAL', 'RULE FIRED: 开始驾驶')
+(0.0001, 'g', 'MODIFIED')
+(0.0001, 'retrieval', 'START RETRIEVAL')
+(Partially) matching chunk: stopfortrain(action= 3, curd= 3776.4, curv= 154.0, nexv= 200.0)
+Base level learning: 5.298317366548036
+Spreading activation 0.0
+Partial matching -3
+Noise: 0
+Total activation 2.2983173665480363
+Time to retrieve 0.158451636640284
+(0.0001, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0.0001, 'PROCEDURAL', 'NO RULE FOUND')
+(0.1586, 'retrieval', 'CLEARED')
+(0.1586, 'retrieval', 'RETRIEVED: stopfortrain(action= 3, curd= 3776.4, curv= 154.0, nexv= 200.0)')
+(0.1586, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0.1586, 'PROCEDURAL', 'RULE SELECTED: 回忆成功')
+(0.1587, 'PROCEDURAL', 'RULE FIRED: 回忆成功')
+(0.1587, 'retriveaction', 'MODIFIED')
+(0.1587, 'g', 'MODIFIED')
+(0.1587, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0.1587, 'PROCEDURAL', 'RULE SELECTED: 如果实际距离<知识块距离且实际速度<知识块速度但未超过限制速度,则采用记忆中的制动')
+(0.1588, 'PROCEDURAL', 'RULE FIRED: 如果实际距离<知识块距离且实际速度<知识块速度但未超过限制速度,则采用记忆中的制动')
+(0.1588, 'g', 'CLEARED')
+(0.1588, 'retrieval', 'CLEARED')
+(0.1588, 'manual', 'COMMAND: press_key')
+(0.1588, 'manual', 'PREPARATION COMPLETE')
+(0.1588, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0.1588, 'PROCEDURAL', 'NO RULE FOUND')
+(0.2088, 'manual', 'INITIATION COMPLETE')
+(0.2088, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0.2088, 'PROCEDURAL', 'NO RULE FOUND')
+(0.3088, 'manual', 'KEY PRESSED: 3')
+当前按键档位为： 3
+(0.3088, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0.3088, 'PROCEDURAL', 'NO RULE FOUND')
+(0.4588, 'manual', 'MOVEMENT FINISHED')
+(0.4588, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0.4588, 'PROCEDURAL', 'NO RULE FOUND')
+actr输出的action: 3
+调整后的最终档位: 3
+调整次数: 0
+当前挡位3对应的加速度0.3375
+7674 7983
+275.0
+---------------------------------------------------
+更新后的速度、限速以及距离： 256.8 275.0 7860.0
+imaginal: {stopfortrain(action= , curd= 7860.0, curv= 256.8, nexv= 275.0)}
+(0, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0, 'PROCEDURAL', 'RULE SELECTED: 开始驾驶')
+(0.0001, 'PROCEDURAL', 'RULE FIRED: 开始驾驶')
+(0.0001, 'g', 'MODIFIED')
+(0.0001, 'retrieval', 'START RETRIEVAL')
+(Partially) matching chunk: stopfortrain(action= 3, curd= 3776.4, curv= 154.0, nexv= 200.0)
+Base level learning: 5.298317366548036
+Spreading activation 0.0
+Partial matching -3
+Noise: 0
+Total activation 2.2983173665480363
+Time to retrieve 0.158451636640284
+(0.0001, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0.0001, 'PROCEDURAL', 'NO RULE FOUND')
+(0.1586, 'retrieval', 'CLEARED')
+(0.1586, 'retrieval', 'RETRIEVED: stopfortrain(action= 3, curd= 3776.4, curv= 154.0, nexv= 200.0)')
+(0.1586, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0.1586, 'PROCEDURAL', 'RULE SELECTED: 回忆成功')
+(0.1587, 'PROCEDURAL', 'RULE FIRED: 回忆成功')
+(0.1587, 'retriveaction', 'MODIFIED')
+(0.1587, 'g', 'MODIFIED')
+(0.1587, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0.1587, 'PROCEDURAL', 'RULE SELECTED: 如果实际距离<知识块距离且实际速度<知识块速度但未超过限制速度,则采用记忆中的制动')
+(0.1588, 'PROCEDURAL', 'RULE FIRED: 如果实际距离<知识块距离且实际速度<知识块速度但未超过限制速度,则采用记忆中的制动')
+(0.1588, 'g', 'CLEARED')
+(0.1588, 'retrieval', 'CLEARED')
+(0.1588, 'manual', 'COMMAND: press_key')
+(0.1588, 'manual', 'PREPARATION COMPLETE')
+(0.1588, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0.1588, 'PROCEDURAL', 'NO RULE FOUND')
+(0.2088, 'manual', 'INITIATION COMPLETE')
+(0.2088, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0.2088, 'PROCEDURAL', 'NO RULE FOUND')
+(0.3088, 'manual', 'KEY PRESSED: 3')
+当前按键档位为： 3
+(0.3088, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0.3088, 'PROCEDURAL', 'NO RULE FOUND')
+(0.4588, 'manual', 'MOVEMENT FINISHED')
+(0.4588, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0.4588, 'PROCEDURAL', 'NO RULE FOUND')
+actr输出的action: 3
+调整后的最终档位: 3
+调整次数: 0
+当前挡位3对应的加速度0.3375
+7674 7983
+275.0
+---------------------------------------------------
+更新后的速度、限速以及距离： 256.2 275.0 7827.3
+imaginal: {stopfortrain(action= , curd= 7827.3, curv= 256.2, nexv= 275.0)}
+(0, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0, 'PROCEDURAL', 'RULE SELECTED: 开始驾驶')
+(0.0001, 'PROCEDURAL', 'RULE FIRED: 开始驾驶')
+(0.0001, 'g', 'MODIFIED')
+(0.0001, 'retrieval', 'START RETRIEVAL')
+(Partially) matching chunk: stopfortrain(action= 3, curd= 3776.4, curv= 154.0, nexv= 200.0)
+Base level learning: 5.298317366548036
+Spreading activation 0.0
+Partial matching -3
+Noise: 0
+Total activation 2.2983173665480363
+Time to retrieve 0.158451636640284
+(0.0001, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0.0001, 'PROCEDURAL', 'NO RULE FOUND')
+(0.1586, 'retrieval', 'CLEARED')
+(0.1586, 'retrieval', 'RETRIEVED: stopfortrain(action= 3, curd= 3776.4, curv= 154.0, nexv= 200.0)')
+(0.1586, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0.1586, 'PROCEDURAL', 'RULE SELECTED: 回忆成功')
+(0.1587, 'PROCEDURAL', 'RULE FIRED: 回忆成功')
+(0.1587, 'retriveaction', 'MODIFIED')
+(0.1587, 'g', 'MODIFIED')
+(0.1587, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0.1587, 'PROCEDURAL', 'RULE SELECTED: 如果实际距离<知识块距离且实际速度<知识块速度但未超过限制速度,则采用记忆中的制动')
+(0.1588, 'PROCEDURAL', 'RULE FIRED: 如果实际距离<知识块距离且实际速度<知识块速度但未超过限制速度,则采用记忆中的制动')
+(0.1588, 'g', 'CLEARED')
+(0.1588, 'retrieval', 'CLEARED')
+(0.1588, 'manual', 'COMMAND: press_key')
+(0.1588, 'manual', 'PREPARATION COMPLETE')
+(0.1588, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0.1588, 'PROCEDURAL', 'NO RULE FOUND')
+(0.2088, 'manual', 'INITIATION COMPLETE')
+(0.2088, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0.2088, 'PROCEDURAL', 'NO RULE FOUND')
+(0.3088, 'manual', 'KEY PRESSED: 3')
+当前按键档位为： 3
+(0.3088, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0.3088, 'PROCEDURAL', 'NO RULE FOUND')
+(0.4588, 'manual', 'MOVEMENT FINISHED')
+(0.4588, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0.4588, 'PROCEDURAL', 'NO RULE FOUND')
+actr输出的action: 3
+调整后的最终档位: 3
+调整次数: 0
+当前挡位3对应的加速度0.3375
+7674 7983
+275.0
+---------------------------------------------------
+更新后的速度、限速以及距离： 255.7 275.0 7794.7
+imaginal: {stopfortrain(action= , curd= 7794.7, curv= 255.7, nexv= 275.0)}
+(0, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0, 'PROCEDURAL', 'RULE SELECTED: 开始驾驶')
+(0.0001, 'PROCEDURAL', 'RULE FIRED: 开始驾驶')
+(0.0001, 'g', 'MODIFIED')
+(0.0001, 'retrieval', 'START RETRIEVAL')
+(Partially) matching chunk: stopfortrain(action= 3, curd= 3776.4, curv= 154.0, nexv= 200.0)
+Base level learning: 5.298317366548036
+Spreading activation 0.0
+Partial matching -3
+Noise: 0
+Total activation 2.2983173665480363
+Time to retrieve 0.158451636640284
+(0.0001, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0.0001, 'PROCEDURAL', 'NO RULE FOUND')
+(0.1586, 'retrieval', 'CLEARED')
+(0.1586, 'retrieval', 'RETRIEVED: stopfortrain(action= 3, curd= 3776.4, curv= 154.0, nexv= 200.0)')
+(0.1586, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0.1586, 'PROCEDURAL', 'RULE SELECTED: 回忆成功')
+(0.1587, 'PROCEDURAL', 'RULE FIRED: 回忆成功')
+(0.1587, 'retriveaction', 'MODIFIED')
+(0.1587, 'g', 'MODIFIED')
+(0.1587, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0.1587, 'PROCEDURAL', 'RULE SELECTED: 如果实际距离<知识块距离且实际速度<知识块速度但未超过限制速度,则采用记忆中的制动')
+(0.1588, 'PROCEDURAL', 'RULE FIRED: 如果实际距离<知识块距离且实际速度<知识块速度但未超过限制速度,则采用记忆中的制动')
+(0.1588, 'g', 'CLEARED')
+(0.1588, 'retrieval', 'CLEARED')
+(0.1588, 'manual', 'COMMAND: press_key')
+(0.1588, 'manual', 'PREPARATION COMPLETE')
+(0.1588, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0.1588, 'PROCEDURAL', 'NO RULE FOUND')
+(0.2088, 'manual', 'INITIATION COMPLETE')
+(0.2088, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0.2088, 'PROCEDURAL', 'NO RULE FOUND')
+(0.3088, 'manual', 'KEY PRESSED: 3')
+当前按键档位为： 3
+(0.3088, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0.3088, 'PROCEDURAL', 'NO RULE FOUND')
+(0.4588, 'manual', 'MOVEMENT FINISHED')
+(0.4588, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0.4588, 'PROCEDURAL', 'NO RULE FOUND')
+actr输出的action: 3
+调整后的最终档位: 3
+调整次数: 0
+当前挡位3对应的加速度0.3375
+7674 7983
+275.0
+---------------------------------------------------
+更新后的速度、限速以及距离： 255.1 275.0 7762.1
+imaginal: {stopfortrain(action= , curd= 7762.1, curv= 255.1, nexv= 275.0)}
+(0, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0, 'PROCEDURAL', 'RULE SELECTED: 开始驾驶')
+(0.0001, 'PROCEDURAL', 'RULE FIRED: 开始驾驶')
+(0.0001, 'g', 'MODIFIED')
+(0.0001, 'retrieval', 'START RETRIEVAL')
+(Partially) matching chunk: stopfortrain(action= 3, curd= 3776.4, curv= 154.0, nexv= 200.0)
+Base level learning: 5.298317366548036
+Spreading activation 0.0
+Partial matching -3
+Noise: 0
+Total activation 2.2983173665480363
+Time to retrieve 0.158451636640284
+(0.0001, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0.0001, 'PROCEDURAL', 'NO RULE FOUND')
+(0.1586, 'retrieval', 'CLEARED')
+(0.1586, 'retrieval', 'RETRIEVED: stopfortrain(action= 3, curd= 3776.4, curv= 154.0, nexv= 200.0)')
+(0.1586, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0.1586, 'PROCEDURAL', 'RULE SELECTED: 回忆成功')
+(0.1587, 'PROCEDURAL', 'RULE FIRED: 回忆成功')
+(0.1587, 'retriveaction', 'MODIFIED')
+(0.1587, 'g', 'MODIFIED')
+(0.1587, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0.1587, 'PROCEDURAL', 'RULE SELECTED: 如果实际距离<知识块距离且实际速度<知识块速度但未超过限制速度,则采用记忆中的制动')
+(0.1588, 'PROCEDURAL', 'RULE FIRED: 如果实际距离<知识块距离且实际速度<知识块速度但未超过限制速度,则采用记忆中的制动')
+(0.1588, 'g', 'CLEARED')
+(0.1588, 'retrieval', 'CLEARED')
+(0.1588, 'manual', 'COMMAND: press_key')
+(0.1588, 'manual', 'PREPARATION COMPLETE')
+(0.1588, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0.1588, 'PROCEDURAL', 'NO RULE FOUND')
+(0.2088, 'manual', 'INITIATION COMPLETE')
+(0.2088, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0.2088, 'PROCEDURAL', 'NO RULE FOUND')
+(0.3088, 'manual', 'KEY PRESSED: 3')
+当前按键档位为： 3
+(0.3088, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0.3088, 'PROCEDURAL', 'NO RULE FOUND')
+(0.4588, 'manual', 'MOVEMENT FINISHED')
+(0.4588, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0.4588, 'PROCEDURAL', 'NO RULE FOUND')
+actr输出的action: 3
+调整后的最终档位: 3
+调整次数: 0
+当前挡位3对应的加速度0.3375
+7674 7983
+275.0
+---------------------------------------------------
+更新后的速度、限速以及距离： 254.6 275.0 7729.6
+imaginal: {stopfortrain(action= , curd= 7729.6, curv= 254.6, nexv= 275.0)}
+(0, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0, 'PROCEDURAL', 'RULE SELECTED: 开始驾驶')
+(0.0001, 'PROCEDURAL', 'RULE FIRED: 开始驾驶')
+(0.0001, 'g', 'MODIFIED')
+(0.0001, 'retrieval', 'START RETRIEVAL')
+(Partially) matching chunk: stopfortrain(action= 3, curd= 3776.4, curv= 154.0, nexv= 200.0)
+Base level learning: 5.298317366548036
+Spreading activation 0.0
+Partial matching -3
+Noise: 0
+Total activation 2.2983173665480363
+Time to retrieve 0.158451636640284
+(0.0001, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0.0001, 'PROCEDURAL', 'NO RULE FOUND')
+(0.1586, 'retrieval', 'CLEARED')
+(0.1586, 'retrieval', 'RETRIEVED: stopfortrain(action= 3, curd= 3776.4, curv= 154.0, nexv= 200.0)')
+(0.1586, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0.1586, 'PROCEDURAL', 'RULE SELECTED: 回忆成功')
+(0.1587, 'PROCEDURAL', 'RULE FIRED: 回忆成功')
+(0.1587, 'retriveaction', 'MODIFIED')
+(0.1587, 'g', 'MODIFIED')
+(0.1587, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0.1587, 'PROCEDURAL', 'RULE SELECTED: 如果实际距离<知识块距离且实际速度<知识块速度但未超过限制速度,则采用记忆中的制动')
+(0.1588, 'PROCEDURAL', 'RULE FIRED: 如果实际距离<知识块距离且实际速度<知识块速度但未超过限制速度,则采用记忆中的制动')
+(0.1588, 'g', 'CLEARED')
+(0.1588, 'retrieval', 'CLEARED')
+(0.1588, 'manual', 'COMMAND: press_key')
+(0.1588, 'manual', 'PREPARATION COMPLETE')
+(0.1588, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0.1588, 'PROCEDURAL', 'NO RULE FOUND')
+(0.2088, 'manual', 'INITIATION COMPLETE')
+(0.2088, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0.2088, 'PROCEDURAL', 'NO RULE FOUND')
+(0.3088, 'manual', 'KEY PRESSED: 3')
+当前按键档位为： 3
+(0.3088, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0.3088, 'PROCEDURAL', 'NO RULE FOUND')
+(0.4588, 'manual', 'MOVEMENT FINISHED')
+(0.4588, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0.4588, 'PROCEDURAL', 'NO RULE FOUND')
+actr输出的action: 3
+调整后的最终档位: 3
+调整次数: 0
+当前挡位3对应的加速度0.3375
+7674 7983
+275.0
+---------------------------------------------------
+更新后的速度、限速以及距离： 254.0 275.0 7697.2
+imaginal: {stopfortrain(action= , curd= 7697.2, curv= 254.0, nexv= 275.0)}
+(0, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0, 'PROCEDURAL', 'RULE SELECTED: 开始驾驶')
+(0.0001, 'PROCEDURAL', 'RULE FIRED: 开始驾驶')
+(0.0001, 'g', 'MODIFIED')
+(0.0001, 'retrieval', 'START RETRIEVAL')
+(Partially) matching chunk: stopfortrain(action= 3, curd= 3776.4, curv= 154.0, nexv= 200.0)
+Base level learning: 5.298317366548036
+Spreading activation 0.0
+Partial matching -3
+Noise: 0
+Total activation 2.2983173665480363
+Time to retrieve 0.158451636640284
+(0.0001, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0.0001, 'PROCEDURAL', 'NO RULE FOUND')
+(0.1586, 'retrieval', 'CLEARED')
+(0.1586, 'retrieval', 'RETRIEVED: stopfortrain(action= 3, curd= 3776.4, curv= 154.0, nexv= 200.0)')
+(0.1586, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0.1586, 'PROCEDURAL', 'RULE SELECTED: 回忆成功')
+(0.1587, 'PROCEDURAL', 'RULE FIRED: 回忆成功')
+(0.1587, 'retriveaction', 'MODIFIED')
+(0.1587, 'g', 'MODIFIED')
+(0.1587, 'PROCEDURAL', 'CONFLICT RESOLUTION')
+(0.1587, 'PROCEDURAL', 'RULE SELECTED: 如果实际距离<知识块距离且实际速度<知识块速度但未超过限制速度,则采用记忆中的制动')
+(0.1588, 'PROCEDURAL', 'RULE FIRED: 如果实际距离<知识块距离且实际速度<知识块速度但未超过限制速度,则采用记忆中的制动')
+(0.1588, 'g', 'CLEARED')
+(0.1588, 'retrieval', 'CLEARED')
+(0.1588, 'manual', 'COMMAND: press_key')

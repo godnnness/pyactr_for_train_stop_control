@@ -6,7 +6,7 @@
 # @File : driverData.py
 # @Software: PyCharm
 """
-这段代码的主要功能是：
+这段代码的主要功能是：验证驾驶数据，本文算法即使用该数据
 """
 import xlrd
 import matplotlib.pyplot as plt
