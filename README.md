@@ -1,0 +1,3 @@
+# pyactr_for_train_stop_control
+High_speed train stop control algorithm based on Pyactr
+本部分是我利用pyactr库做的关于高速列车停车对标控制算法，相要了解pyactr的可以了解
